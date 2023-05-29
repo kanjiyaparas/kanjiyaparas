@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kanjiyaparas
 - 👀 I’m interested in masterpiece of coding and devlope infrastructure
-- 🌱 I’m currently learning frontend devlopment cource in angular 
+- 🌱 I’m currently learning mern stack devlopment 
 - 📫 How to reach me kanjiyaparas2002@gmail.com
 
 <!---
